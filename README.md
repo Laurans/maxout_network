@@ -14,3 +14,8 @@ This repository contains two implementations (tensorflow and pytorch) of a maxou
      year = {2013}
 }
 ```
+## Running
+`python maxout_pytorch_version.py` or `maxout_tensorflow_version.py` to run the scripts and to visualize how a maxout unit approximates a non-linear function. 
+
+## Other link
+You can know more about it with my [story on Medium](https://medium.com/@alaurans/quick-guide-on-maxout-networks-7867ad66f9ee)
